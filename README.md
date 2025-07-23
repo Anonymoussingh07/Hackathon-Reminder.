@@ -1,1 +1,4 @@
-So Hello there  will be adding description later
+Hackathon Reminder
+
+What it do ?
+
